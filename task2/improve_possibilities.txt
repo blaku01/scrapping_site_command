@@ -1,0 +1,12 @@
+The software might be improved by:
+
+adding GUI to it,
+implementing it at website as an API (?search={keyword}, answer -> json containing list of links)
+make it scrape at maximum time allowed by website to make sure that user wont get banned
+add settings as an external file(how much pages should it scrap etc.)
+
+risks associated with using such a program:
+
+your account/ip might get banned if website from which you're scraping dont allow it
+
+

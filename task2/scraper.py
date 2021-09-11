@@ -82,7 +82,7 @@ class GoogleSearchScraper:
                 for i in range(0, self.num_of_pages):
                     self.get_links_from_site(link + "&start=" + str(i*10))
         
-        save_query_as_csv(self)
+        self.save_query_as_csv()
 
 
 
